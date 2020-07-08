@@ -1,5 +1,5 @@
 ### Weather Application ⛅
-A simple,user-friendly application that lets you know the temperature of any location across the globe
+A simple,user-friendly application that lets you know the temperature, how it feels like(accounts for the human perception of weather) and many other parameters of any location across the globe
 
 This application has been built using [React](https://reactjs.org/) and [OpenWeather API](https://openweathermap.org/)
 

@@ -107,3 +107,21 @@ main{
   text-align: center;
 
 }
+
+.weather-box .weather-feels{
+  color: rgb(240, 236, 236);
+  font-size: 48px;
+  font-weight: 700;
+  text-shadow: 3px 3px rgba(50,50,70,0.5);
+
+  text-align: center;
+}
+
+.weather-box .weather-humidity{
+  color: rgb(240, 236, 236);
+  font-size: 48px;
+  font-weight: 700;
+  text-shadow: 3px 3px rgba(50,50,70,0.5);
+
+  text-align: center;
+}
