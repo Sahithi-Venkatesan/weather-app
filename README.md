@@ -5,9 +5,17 @@ This application has been built using [React](https://reactjs.org/) and [OpenWea
 
 ![Demo of the output](src/assets/demo.gif)
 
+
 ### Prerequisites
 Make sure you have [node >= 8.10 and npm >= 5.6](https://nodejs.org/en/) installed
 
+
+If you face an isuue saying react-scripts file missing in your node modules directory at the time of installation,
+
+Check whether your react-script dependency is avaliable or not in package.json
+
+Else, add them manually via,
+`npm install react-scripts --save`
 
 
 In the project directory, you can run:
