@@ -1,5 +1,6 @@
-### <img src="src/assets/logo.png"> Weather Application 
+### Weather Application ⛅
 A simple,user-friendly application that lets you know the temperature of any location across the globe
+
 This application has been built using [React](https://reactjs.org/) and [OpenWeather API](https://openweathermap.org/)
 
 ![Demo of the output](src/assets/demo.gif)
