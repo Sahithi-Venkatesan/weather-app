@@ -1,8 +1,13 @@
-### Weather Application 
+### <img src="src/assets/logo.png"> Weather Application 
+A simple,user-friendly application that lets you know the temperature of any location across the globe
+This application has been built using [React](https://reactjs.org/) and [OpenWeather API](https://openweathermap.org/)
 
 ![Demo of the output](src/assets/demo.gif)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Prerequisites
+Make sure you have [node >= 8.10 and npm >= 5.6](https://nodejs.org/en/) installed
+
+
 
 In the project directory, you can run:
 
